@@ -48,7 +48,8 @@ Multi-Subnet Failover: Application connection strings utilize MultiSubnetFailove
 👨‍💻 About the Author
 [MEGNA] Data Architect | SQL Server & PostgreSQL Specialist
 
-LinkedIn: [Your Profile Link]
+LinkedIn: [www.linkedin.com/in/musapeta-m]
 
 Portfolio: [https://github.com/musapeta-m/musapeta-m]
+
 
